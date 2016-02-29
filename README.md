@@ -5,7 +5,7 @@ Want to use [HTMLHint](http://htmlhint.com/js/htmlhint.js) for syntax validation
 
 **NOTE:** If you're using [Ace Editor](http://ace.c9.io/) please refer to [htmlhint.com](http://htmlhint.com/). This release is strictly a [Codemirror](http://codemirror.net/) Integration.
 
-[Try it on Codepen!](http://codepen.io/mikethedj4/pen/PqgrBY)
+[Try it on Codepen!](http://codepen.io/anon/pen/RaNwNd?editors=0010)
 
 Rules Specified for Validation
 -------------
